@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@Model.IndexTitle</title>
+  </head>
+  <body>
+    <header>
+      <h1>To-do List</h1>
+      <nav>
+        <ul>
+          <li><a href="/toDoList.html">Все задачи</a></li>
+          <li><a href="/completed.html">Выполненные</a></li>
+          <li><a href="/new.html">Новые</a></li>
+          <li><a href="/statistics.html">Статистика</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>@RenderBody()</main>
+  </body>
+</html>

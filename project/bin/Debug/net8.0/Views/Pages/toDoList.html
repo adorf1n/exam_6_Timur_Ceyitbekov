@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>To-Do List</title>
+  </head>
+  <body>
+    <h1>To-Do List</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Заголовок</th>
+          <th>Имя исполнителя</th>
+          <th>Дата создания</th>
+          <th>Статус</th>
+          <th>Действия</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var task in Model.Tasks) {
+        <tr>
+          <td>@task.ID</td>
+          <td><a href="/taskDetail.html?taskId=@task.ID">@task.Title</a></td>
+          <td>@task.Assignee</td>
+          <td>@task.CreatedDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
+          <td>@task.Status</td>
+          <td>
+            <button onclick="completeTask(@task.ID)">Выполнить</button>
+            <button onclick="deleteTask(@task.ID)">Удалить</button>
+          </td>
+        </tr>
+        }
+      </tbody>
+    </table>
+    <form id="addTaskForm" method="POST" action="/addTask.html">
+      <input type="text" name="title" placeholder="Заголовок" required />
+      <input
+        type="text"
+        name="assignee"
+        placeholder="Имя исполнителя"
+        required
+      />
+      <textarea name="description" placeholder="Описание задачи"></textarea>
+      <button type="submit">Добавить задачу</button>
+    </form>
+  </body>
+</html>

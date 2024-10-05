@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ad0rfin\\source\\repos\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|c:\\users\\ad0rfin\\source\\repos\\project\\project\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA2A5F2-52B6-4ABA-BFA8-5B40EAD93170}|project\\project.csproj|solutionrelative:project\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "project\\ToDoListViewModel.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\ToDoListViewModel.cs",
+              "RelativeToolTip": "project\\ToDoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:29:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "project\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskStatus.cs",
+              "RelativeToolTip": "project\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:28:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\ITaskService.cs",
+              "RelativeDocumentMoniker": "project\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\ITaskService.cs",
+              "RelativeToolTip": "project\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:12:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskService.cs",
+              "RelativeDocumentMoniker": "project\\TaskService.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskService.cs",
+              "RelativeToolTip": "project\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:55:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskItem.cs",
+              "RelativeDocumentMoniker": "project\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\TaskItem.cs",
+              "RelativeToolTip": "project\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:52:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\HttpServer.cs",
+              "RelativeDocumentMoniker": "project\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\HttpServer.cs",
+              "RelativeToolTip": "project\\HttpServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:35:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\source\\repos\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:32:16.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
